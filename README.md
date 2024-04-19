@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GrantTK13
-- 👀 I’m interested in coding, gaming, art, animating, and Minecraft
+- 👀 I’m interested in coding, gaming, art, animating, Minecraft, and making games in Roblox Studio
 - 🌱 I’m currently learning how to code better lol
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: discord (@gtk13_)
