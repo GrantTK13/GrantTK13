@@ -5,6 +5,7 @@
 - 📫 How to reach me: discord (@gtk13_)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: this fact is fun
+- My favorite languages are Python and HTML.
 
 <!---
 GrantTK13/GrantTK13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
