@@ -5,6 +5,6 @@ My favorite languages are Python, HTML, and Java.
 
 I also have a Minecraft mod called More Minecraft. Check out the link in the link section to view it on Modrinth.
 
-I own a programming organization called KaPex.
+I own a programming organization called KukLabs.
 
 i lov magdonal fench fy
